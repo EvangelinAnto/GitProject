@@ -8,6 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Sample {
+	//hi
 	public static void main(String[]args) throws InterruptedException {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\alice\\eclipse-workspace\\Selenium\\SeleniumLaunch\\Resource\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
