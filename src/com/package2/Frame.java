@@ -11,6 +11,7 @@ public class Frame {
 	
 	
 		public static void main(String[] args) {
+			//hello
 			System.setProperty("webdriver.chrome.driver","C:\\Users\\alice\\eclipse-workspace\\Selenium\\SeleniumLaunch\\Resource\\chromedriver.exe");
 			WebDriver driver=new ChromeDriver();
 			driver.manage().window().maximize();
